@@ -1,0 +1,4 @@
+goto 4
+goto calc + 2 2
+goto 2
+goto 3

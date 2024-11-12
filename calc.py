@@ -44,9 +44,3 @@ with open('input1.txt', 'r') as file:
         # Print the result 
         print(f"The result of {a} {operation} {b} is: {result}")
         print (f"{sum}")
-
-
-
-
-# Print the contents of the file
-#print(content)
